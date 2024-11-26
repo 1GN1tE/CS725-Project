@@ -42,6 +42,13 @@ And lastly ensemble all the above models with averaging (geometric mean and Line
   <img src="https://github.com/user-attachments/assets/67bcd806-36cf-4d61-adf7-23fdbfa54e83" width="300" height="300" />
 </div>
 
+### MobileNet V2
+<div style="display: flex; gap: 10px;">
+  <img src="![image](https://github.com/user-attachments/assets/954c2a58-7108-4f24-b287-9255661371c4)
+" width="300" height="300" />
+  <img src="![image](https://github.com/user-attachments/assets/ea8aead9-5e4f-4d26-a9df-1ceb9be9ce0a)
+" width="300" height="300" />
+</div>
 
 ## Evaluation
 
