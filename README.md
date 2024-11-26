@@ -30,14 +30,17 @@ And lastly ensemble all the above models with averaging (geometric mean and Line
 
 ## Results
 
-ResNet 50
-![image](https://github.com/user-attachments/assets/8c5e301d-a5c2-48c7-9c47-537a1af8dbba)
-![image](https://github.com/user-attachments/assets/16fbf790-2b79-47a3-b20c-5b48e881eafb)
+### ResNet 50
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/8c5e301d-a5c2-48c7-9c47-537a1af8dbba" width="300" />
+  <img src="https://github.com/user-attachments/assets/16fbf790-2b79-47a3-b20c-5b48e881eafb" width="300" />
+</div>
 
-EfficientNet V2
-![image](https://github.com/user-attachments/assets/9bdc0558-2307-4aee-97b9-035008479ccb)
-![image](https://github.com/user-attachments/assets/67bcd806-36cf-4d61-adf7-23fdbfa54e83)
-
+### EfficientNet V2
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/9bdc0558-2307-4aee-97b9-035008479ccb" width="300" />
+  <img src="https://github.com/user-attachments/assets/67bcd806-36cf-4d61-adf7-23fdbfa54e83" width="300" />
+</div>
 
 ## Evaluation
 
