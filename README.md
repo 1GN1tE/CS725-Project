@@ -1,19 +1,6 @@
 # CS725-Project
 
 <!-- About -->
-
-## Evaluation
-
-<!-- Predictions, scores -->
-
-## Running
-
-Set up environment in kaggle / colab:
-```sh
-pip install requirements.txt
-```
-<!-- Import the following dataset in kaggle / colab: -->
-
 ## About Project
 
 Objective of our project is to classify 25 distinct Indian bird species using machine learning techniques.
@@ -36,11 +23,33 @@ EfficientNet V2 B0 (Trainable params: 793,625)
 MobileNet V2 (Trainable params: 793,625)
 Vision Transformer (Trainable params: 531,481)
 
-And lastly ensemble all the above models with averaging (geometric mean).
+And lastly ensemble all the above models with averaging (geometric mean and Linear mean).
 
-Our Model Architecture:
+## Our Model Architecture:
 ![image](https://github.com/user-attachments/assets/45a493e9-7234-4174-b8ff-0ae6ce680ef9)
 
+## Results
+
+ResNet 50
+![image](https://github.com/user-attachments/assets/8c5e301d-a5c2-48c7-9c47-537a1af8dbba)
+![image](https://github.com/user-attachments/assets/16fbf790-2b79-47a3-b20c-5b48e881eafb)
+
+EfficientNet V2
+![image](https://github.com/user-attachments/assets/9bdc0558-2307-4aee-97b9-035008479ccb)
+![image](https://github.com/user-attachments/assets/67bcd806-36cf-4d61-adf7-23fdbfa54e83)
+
+
+## Evaluation
+
+<!-- Predictions, scores -->
+
+## Running
+
+Set up environment in kaggle / colab:
+```sh
+pip install requirements.txt
+```
+<!-- Import the following dataset in kaggle / colab: -->
 
 ## References
 
