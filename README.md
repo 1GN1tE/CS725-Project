@@ -48,6 +48,16 @@ And lastly ensemble all the above models with averaging (geometric mean and Line
   <img src="https://github.com/user-attachments/assets/ea8aead9-5e4f-4d26-a9df-1ceb9be9ce0a" width="300" height="300" />
 </div>
 
+### ViT B32
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/053d6e0a-8966-4e83-9de4-a0c326254ffa" width="300" height="300" />
+  <img src="https://github.com/user-attachments/assets/e7316503-f9d6-4fef-b5b3-cb2e330ed47d" width="300" height="300" />
+</div>
+
+### Performance Metric
+
+<img width="543" alt="pm" src="https://github.com/user-attachments/assets/3c58fe9c-d6bb-49f0-8303-027acfd6ff2d">
+
 
 ## Evaluation
 
