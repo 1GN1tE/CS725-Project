@@ -58,6 +58,11 @@ And lastly ensemble all the above models with averaging (geometric mean and Line
 
 <img width="543" alt="pm" src="https://github.com/user-attachments/assets/3c58fe9c-d6bb-49f0-8303-027acfd6ff2d">
 
+## Analysis
+
+EfficientNetV2 gives better accuracy than ResNet50 even with lesser parameters.
+EfficientNet also outperformed ViT-b32.
+Ensemble gives the best accuracy with the highest Mathews Correlation Coefficient (MCC) so it will also generalize to unseen samples.
 
 ## Evaluation
 
